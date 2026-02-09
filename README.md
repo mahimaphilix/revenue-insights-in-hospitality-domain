@@ -1,9 +1,9 @@
 # revenue-insights-in-hospitality-domain
 
-1 Problem Statement - AtliQ Grands owns multiple five-star hotels. To gain and revenue, business management and data is incorporated to draw insights from their historical data.
+## Problem Statement 
+ AtliQ Grands owns multiple five-star hotels. To gain and revenue, business management and data is incorporated to draw insights from their historical data.
 
-
-2 Tech Stack
+## Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -17,7 +17,7 @@ The dashboard was built using the following tools and technologies:
 
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
-3 Demo
+## Demo
 Dashboard Preview(https://github.com/mahimaphilix/revenue-insights-in-hospitality-domain/blob/main/snapshot%20of%20dashboard.png)
 
 
