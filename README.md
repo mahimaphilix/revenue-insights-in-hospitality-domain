@@ -17,7 +17,10 @@ The dashboard was built using the following tools and technologies:
 
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
-3. Demo
+3 Demo
+
+Dashboard Preview(https://github.com/mahimaphilix/revenue-insights-in-hospitality-domain/blob/main/snapshot%20of%20dashboard.png)
+
 
 
 
